@@ -1,0 +1,7 @@
+site_name: Repositorio Jesus Palma & Romero S.A DE C.V (J.PyRSA)
+
+
+nav:
+  Inicio: 'README.md'
+
+theme : readthedocs
