@@ -1,0 +1,2206 @@
+
+jpyrsa2
+GitHub
+exklusive_web	14
+admin	15
+account.php	15
+accounts.php	15
+admin.css	15
+admin.js	15
+admin.scss	15
+api.php	15
+categories.php	15
+category.php	15
+dashboard.php	15
+discount.php	15
+discounts.php	15
+emailtemplates.php	15
+index.php	15
+media.php	15
+order.php	15
+order_manage.php	15
+orders.php	15
+product.php	15
+products.php	15
+settings.php	15
+shipping.php	15
+shipping_process.php	15
+tax.php	15
+taxes.php	15
+ipn	15
+coinbase.php	15
+paypal.php	15
+stripe.php	15
+lib	15
+Incluye un conjunto predefinido de clases para recursos de API que se inicializan dinámicamente a partir de respuestas de API, lo que lo hace compatible con una amplia gama de versiones de Stripe API.	15
+res	15
+es.php	15
+uploads	15
+camera.jpg	15
+featured-image.jpg	15
+headphones.jpg	15
+wallet.jpg	15
+watch-2.jpg	15
+watch-3.jpg	15
+watch.jpg	15
+README.md	14
+cart.php	14
+changelog.md	14
+checkout.php	14
+config.php	14
+download.php	14
+favicon.png	14
+functions.php	14
+home.php	14
+index.php	14
+logout.php	14
+myaccount.php	14
+order-details-template.php	14
+order-notification-template.php	14
+placeorder.php	14
+product.php	14
+products.php	14
+script.js	14
+search.php	14
+shoppingcart.sql	14
+stripe-redirect.php	14
+style.css	14
+style.scss	14
+web.config	14
+exklusive-app	15
+.github/ISSUE_TEMPLATE	16
+reporta-un-bug.md	16
+contrib	16
+5422 [Converted].ai	16
+5422.eps	16
+5422.jpg	16
+AdobeStock_394665427_Preview.ai	16
+Herunterladen.jfif	16
+License free.txt	16
+License premium.txt	16
+Typography_Map.jpg	16
+black-black-background-abstract-balls-wallpaper-thumb.jpg	16
+black-cool-dark-laptop-background-wallpaper-preview.jpg	16
+luxury-ornamental-mandala-design-background-gold-color.zip	16
+modern-background-dark-gradient-luxury.zip	16
+screen-3.webp	16
+screen-4.jpg	16
+splash.psd	16
+splash_lab.psd	16
+vecteezy_abstract-black-watercolor-splash-background_256694.zip	16
+wallpaperflare.com_wallpaper.jpg	16
+water-colorful-liquid-minimalism-wallpaper-preview.jpg	16
+docs	16
+Bibliografía	16
+En este documento se muestra la bibliografía comentada de las cosas interesantes que se han ido descubriendo a travez de la investigación,	16
+Bibliografia.md	16
+e2e	16
+protractor.conf.js	16
+tsconfig.json	16
+resources	16
+Estos son los recursos de Córdoba. Puede reemplazar icon.png y splash.png y ejecutar recursos iónicos de cordova para generar íconos personalizados y pantallas de bienvenida para su aplicación.	16
+Exklusive-v1.1.0-key.keystore	16
+README.md	16
+icon.png	16
+splash.png	16
+src	16
+global.scss	16
+index.html	16
+main.ts	16
+polyfills.ts	16
+test.ts	16
+zone-flags.ts	16
+typings	16
+cordova-typings.d.ts	16
+.browserslistrc	15
+7 months ago	15
+.dockerignore	15
+.editorconfig	15
+.eslintrc.json	15
+.gitignore	15
+Changelog.md	15
+Dockerfile	15
+README.md	15
+angular.json	15
+config.xml	15
+config_template.xml	15
+env.bat	15
+ionic.config.json	15
+karma.conf.js	15
+package-lock.json	15
+package.json	15
+start.bat	15
+tsconfig.app.json	15
+tsconfig.json	15
+tsconfig.spec.json	15
+Issues	15
+rds-client-installer	15
+docs	16
+components.md	16
+icons	16
+SetupIconFile.ico	16
+UninstallDisplayIcon.ico	16
+WizardImageFile.bmp	16
+WizardSmallImageFile.bmp	16
+_SetupIconFile.ico	16
+Templates	16
+Launcher.ini	16
+StartoptManager.lax	16
+icon_jterm.ico	16
+startupClient.xml	16
+.gitignore	15
+Client_installer.iss	15
+Instalar.adoc	15
+README.md	15
+Issues	15
+exklusive_api_v1	16
+.github	16
+dependabot.yml	16
+.settings	16
+org.eclipse.wst.validation.prefs	16
+app	16
+ApiKeyAuth.php	16
+ApiKeyAuthMiddleware.php	16
+dependencies.php	16
+email_handler.php	16
+middleware.php	16
+repositories.php	16
+routes.php	16
+settings.php	16
+tools.php	16
+config	16
+config.php	17
+db.php	17
+whitelist.php	17
+httdocs/exklusive_data/aviso_privacidad	17
+Avisos legales	17
+Aviso_privacidad.pdf	17
+TERMINOS_Y_CONDICIONES_NEGOCIO.pdf	17
+TERMINOS_Y_CONDICIONES_USUARIO.pdf	17
+logs	17
+Los archivos de registro de su aplicación Slim Framework se escribirán en este directorio.	17
+README.md	17
+public	17
+.htaccess	17
+comercio	17
+dependencies.php	17
+exklusive_data	17
+index.php	17
+info.php	17
+routes	18
+auth.php	18
+auth_dbh.php	18
+authors.php	18
+authors_dbh.php	18
+db_helper.php	18
+es_res.php	18
+images_handler.php	18
+images_handler_dbh.php	18
+loggin_r.php	18
+negocios.php	18
+negocios_dbh.php	18
+orders.php	18
+orders_dbh.php	18
+paypal.php	18
+paypal_dbh.php	18
+products.php	18
+products_dbh.php	18
+raiting.php	18
+raiting_dbh.php	18
+reserva.php	18
+reserva_dbh.php	18
+suppliers.php	18
+suppliers_dbh.php	18
+users.php	18
+users_dbh.php	18
+src	18
+var/cache	18
+.gitignore	19
+.buildpath	19
+.coveralls.yml	19
+.gitignore	19
+.htaccess	19
+.project	19
+CHANGELOG.md	19
+CONTRIBUTING.md	19
+README.md	19
+composer.json	19
+composer.lock	19
+console.php	19
+docker-compose.yml	19
+exklusive.php	19
+install.md	19
+launch_dev.bat	19
+php.ini	19
+phpcs.xml	19
+phpstan.neon.dist	19
+phpunit.xml	19
+Issues	19
+Exklusive-Documentation	19
+API	20
+00-intro.md	20
+01-BancoDeTrabajo.md	20
+01-Instalando-servidor.md	20
+02-configurando_API_KONG-UAT.md	20
+02-configurando_API_KONG-prod.md	20
+TrabajandoConGithub.md.backup	20
+switch_UAT_PROD.md	20
+App	20
+01-Installacion.md	20
+crear_paginas.md	20
+github	20
+TrabajandoConGithub.md	20
+Images	20
+2022-08-20 21_19_58-GitHub Desktop.png	20
+2022-08-21 00_23_02-GitHub Desktop.png	20
+2022-08-21 00_26_26-Comparing main...v1.0 · jpyrsa2_Exklusive-Documentation und 5 weitere Seiten - P.png	20
+2022-08-21 00_30_13-Comparing main...v1.0 · jpyrsa2_Exklusive-Documentation und 5 weitere Seiten - P.png	20
+2022-08-21 00_34_31-My changes by erwinpalma · Pull Request #2 · jpyrsa2_Exklusive-Documentation und.png	20
+2022-08-21 00_34_57-My changes by erwinpalma · Pull Request #2 · jpyrsa2_Exklusive-Documentation und.png	20
+2022-08-21 00_35_23-My changes by erwinpalma · Pull Request #2 · jpyrsa2_Exklusive-Documentation und.png	20
+clone_app_01.png	20
+clone_app_02.png	20
+clone_app_03.png	20
+clone_app_04.png	20
+clone_app_05.png	20
+clone_app_06.png	20
+diagrams.drawio	20
+heidi01.png	20
+heidi02.png	20
+iis_01.png	20
+iis_02.png	20
+iis_03.png	20
+infra-01.png	20
+ports-01.png	20
+misc	20
+usuarios_demo.md	20
+LICENSE	19
+README.md	19
+banco_de_trabajo.md	19
+infra.md	19
+usuarios.md	19
+rds_tools	19
+EventLog2db	20
+App.config	20
+EventLog2db.vbproj	20
+Module1.vb	20
+EventLog2db_service	20
+App.config	20
+EventLog2db_service.vbproj	20
+PearEventLog2db.Designer.vb	20
+PearEventLog2db.resx	20
+PearEventLog2db.vb	20
+ProjectInstaller.Designer.vb	20
+ProjectInstaller.resx	20
+ProjectInstaller.vb	20
+InstallAware	20
+RDSecure Tools_Any CPU.iaext.prjconf	20
+RDS Client	20
+RDS Client.vdproj	20
+contrib	20
+MySql.Data.dll	20
+MySql.Web.dll	20
+Synchronize-icon (1).png	20
+Synchronize-icon.png	20
+Synchronize.ico	20
+rdsMLK	20
+App.config	20
+Module1.vb	20
+Properties.vb	20
+mango.ico	20
+rdsMLK.vbproj	20
+rds_loggin.vb	20
+xmlhelper.vb	20
+rdsMangoLauncher	20
+.properties	20
+App.config	20
+ApplicationEvents.vb	20
+Changelog.md	20
+Form1.Designer.vb	20
+Form1.resx	20
+Form1.ssy.resx	20
+Form1.vb	20
+LauncherNet.Designer.vb	20
+LauncherNet.resx	20
+LauncherNet.vb	20
+SelectCertificate.Designer.vb	20
+SelectCertificate.resx	20
+SelectCertificate.vb	20
+XMLFile1.xml	20
+mango.ico	20
+rdsMangoLauncher.vbproj	20
+rdslib	20
+IniFile.vb	20
+Properties.vb	20
+mysql_helper.vb	20
+rdslib.vbproj	20
+xmlhelper.vb	20
+.gitignore	19
+LICENSE	19
+RDSecure Tools.sln	19
+README.md	19
+XMLFile1.xml	19
+XMLFile2.xml	19
+Issues	19
+documentation	19
+Servicios API	19
+API.md	19
+exklusive-admin	20
+admin	21
+about.php	21
+account.php	21
+accounts.php	21
+admin.css	21
+admin.scss	21
+emailtemplate.php	21
+index.php	21
+main.php	21
+merchant.php	21
+merchants.php	21
+roles.php	21
+settings.php	21
+css	21
+all.css	21
+activate.php	20
+activation-email-template.html	20
+authenticate.php	20
+config.php	20
+footer.php	20
+header.php	20
+home.php	20
+index.php	20
+logout.php	20
+main.php	20
+phplogin.sql	20
+profile.php	20
+register-process.php	20
+register.php	20
+resendactivation.php	20
+style.css	20
+style.scss	20
+rds-logviewer	20
+Lector de LOGS de RDS, tiene la capacidad de exportar la información captada a una base de datos MySQL	21
+Objetivo general	21
+Diseñar y Desarrollar una aplicación Web que Implemente el sistema RDsecure Logs System que permita obtener y extraer los datos e información de los usuarios y llevar un control, RDS-logviewer	21
+RDS-logviewer	21
+RDS-logviewer.sln	21
+.gitattributes	20
+.gitignore	20
+Changelog.md	20
+RDSecureLogs.sql	20
+README.md	20
+Issues	20
+java_shared_libraries	20
+management_service	20
+management_daemon	21
+mngt_service	21
+.project	21
+LICENSE.txt	20
+README.md	20
+rds-main-installer	20
+rdsecure-gateway	20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+exklusive_web   
+admin
+account.php
+accounts.php
+admin.css
+admin.js
+admin.scss
+api.php
+categories.php
+category.php
+dashboard.php
+discount.php
+discounts.php
+emailtemplates.php
+index.php
+media.php
+order.php
+order_manage.php
+orders.php
+product.php
+products.php
+settings.php
+shipping.php
+shipping_process.php
+tax.php
+taxes.php
+ipn
+coinbase.php
+paypal.php
+stripe.php
+lib
+Incluye un conjunto predefinido de clases para recursos de API que se inicializan dinámicamente a partir de respuestas de API, lo que lo hace compatible con una amplia gama de versiones de Stripe API.
+Stripe
+data
+ca-certificates.crt
+lib
+ApiOperations
+All.php
+Create.php
+Delete.php
+NestedResource.php
+Request.php
+Retrieve.php
+Update.php
+BillingPortal
+Configuration.php
+Session.php
+Checkout
+Session.php
+Exception
+OAuth
+ExceptionInterface.php
+InvalidClientException.php
+InvalidGrantException.php
+InvalidRequestException.php
+InvalidScopeException.php
+OAuthErrorException.php
+UnknownOAuthErrorException.php
+UnsupportedGrantTypeException.php
+UnsupportedResponseTypeException.php
+ApiConnectionException.php
+ApiErrorException.php
+AuthenticationException.php
+BadMethodCallException.php
+CardException.php
+ExceptionInterface.php
+IdempotencyException.php
+InvalidArgumentException.php
+InvalidRequestException.php
+PermissionException.php
+RateLimitException.php
+SignatureVerificationException.php
+UnexpectedValueException.php
+UnknownApiErrorException.php
+HttpClient
+ClientInterface.php
+CurlClient.php
+StreamingClientInterface.php
+Identity
+VerificationReport.php
+VerificationSession.php
+Issuing
+Authorization.php
+Card.php
+CardDetails.php
+Cardholder.php
+Dispute.php
+Transaction.php
+Radar
+EarlyFraudWarning.php
+ValueList.php
+ValueListItem.php
+Reporting
+ReportRun.php
+ReportType.php
+Service
+BillingPortal
+BillingPortalServiceFactory.php
+ConfigurationService.php
+SessionService.php
+Checkout
+CheckoutServiceFactory.php
+SessionService.php
+Identity
+IdentityServiceFactory.php
+VerificationReportService.php
+VerificationSessionService.php
+Issuing
+AuthorizationService.php
+CardService.php
+CardholderService.php
+DisputeService.php
+IssuingServiceFactory.php
+TransactionService.php
+Radar
+EarlyFraudWarningService.php
+RadarServiceFactory.php
+ValueListItemService.php
+ValueListService.php
+Reporting
+ReportRunService.php
+ReportTypeService.php
+ReportingServiceFactory.php
+Sigma
+ScheduledQueryRunService.php
+SigmaServiceFactory.php
+Terminal
+ConnectionTokenService.php
+LocationService.php
+ReaderService.php
+TerminalServiceFactory.php
+TestHelpers
+TestClockService.php
+TestHelpersServiceFactory.php
+
+AbstractService.php
+AbstractServiceFactory.php
+AccountLinkService.php
+AccountService.php
+ApplePayDomainService.php
+ApplicationFeeService.php
+BalanceService.php
+BalanceTransactionService.php
+ChargeService.php
+CoreServiceFactory.php
+CountrySpecService.php
+CouponService.php
+CreditNoteService.php
+CustomerService.php
+DisputeService.php
+EphemeralKeyService.php
+EventService.php
+ExchangeRateService.php
+FileLinkService.php
+FileService.php
+InvoiceItemService.php
+InvoiceService.php
+MandateService.php
+OAuthService.php
+OrderReturnService.php
+OrderService.php
+PaymentIntentService.php
+PaymentLinkService.php
+PaymentMethodService.php
+PayoutService.php
+PlanService.php
+PriceService.php
+ProductService.php
+PromotionCodeService.php
+QuoteService.php
+RefundService.php
+ReviewService.php
+SetupAttemptService.php
+SetupIntentService.php
+ShippingRateService.php
+SkuService.php
+SourceService.php
+SubscriptionItemService.php
+SubscriptionScheduleService.php
+SubscriptionService.php
+TaxCodeService.php
+TaxRateService.php
+TokenService.php
+TopupService.php
+TransferService.php
+WebhookEndpointService.php
+Sigma
+ScheduledQueryRun.php
+Terminal
+ConnectionToken.php
+Location.php
+Reader.php
+TestHelpers
+TestClock.php
+
+Util
+CaseInsensitiveArray.php
+DefaultLogger.php
+LoggerInterface.php
+ObjectTypes.php
+RandomGenerator.php
+RequestOptions.php
+Set.php
+Util.php
+
+Account.php
+AccountLink.php
+AlipayAccount.php
+ApiRequestor.php
+ApiResource.php
+ApiResponse.php
+ApplePayDomain.php
+ApplicationFee.php
+ApplicationFeeRefund.php
+Balance.php
+BalanceTransaction.php
+BankAccount.php
+BaseStripeClient.php
+BaseStripeClientInterface.php
+BitcoinReceiver.php
+BitcoinTransaction.php
+Capability.php
+Card.php
+Charge.php
+Collection.php
+CountrySpec.php
+Coupon.php
+CreditNote.php
+CreditNoteLineItem.php
+Customer.php
+CustomerBalanceTransaction.php
+Discount.php
+Dispute.php
+EphemeralKey.php
+ErrorObject.php
+Event.php
+ExchangeRate.php
+File.php
+FileLink.php
+Invoice.php
+InvoiceItem.php
+InvoiceLineItem.php
+LineItem.php
+LoginLink.php
+Mandate.php
+OAuth.php
+OAuthErrorObject.php
+Order.php
+OrderItem.php
+OrderReturn.php
+PaymentIntent.php
+PaymentLink.php
+PaymentMethod.php
+Payout.php
+Person.php
+Plan.php
+Price.php
+Product.php
+PromotionCode.php
+Quote.php
+Recipient.php
+RecipientTransfer.php
+Refund.php
+RequestTelemetry.php
+Review.php
+SKU.php
+SetupAttempt.php
+SetupIntent.php
+ShippingRate.php
+SingletonApiResource.php
+Source.php
+SourceTransaction.php
+Stripe.php
+StripeClient.php
+StripeClientInterface.php
+StripeObject.php
+StripeStreamingClientInterface.php
+Subscription.php
+SubscriptionItem.php
+SubscriptionSchedule.php
+TaxCode.php
+TaxId.php
+TaxRate.php
+ThreeDSecure.php
+Token.php
+Topup.php
+Transfer.php
+TransferReversal.php
+UsageRecord.php
+UsageRecordSummary.php
+Webhook.php
+WebhookEndpoint.php
+WebhookSignature.php
+coveralls.github-actions.yml
+.editorconfig
+.gitignore
+.php-cs-fixer.php
+CHANGELOG.md
+CODE_OF_CONDUCT.md
+LICENSE
+Makefile
+README.md
+VERSION
+build.php
+composer.json
+init.php
+phpdoc.dist.xml
+phpstan-baseline.neon
+phpstan.neon.dist
+update_certs.php
+vendor
+coinbase/coinbase-commerce
+.circleci
+config.yml
+.github
+ISSUE_REQUEST_TEMPLATE
+issue_request_template.md
+PULL_REQUEST_TEMPLATE
+pull_request_template.md
+examples
+Resources
+.gitignore
+ChargeExample.php
+CheckoutExample.php
+EventExample.php
+composer.json
+Webhook
+.gitignore
+README.md
+Webhook.php
+composer.json
+src
+Exceptions
+ApiException.php
+AuthenticationException.php
+CoinbaseException.php
+InternalServerException.php
+InvalidRequestException.php
+InvalidResponseException.php
+ParamRequiredException.php
+RateLimitExceededException.php
+ResourceNotFoundException.php
+ServiceUnavailableException.php
+SignatureVerificationException.php
+ValidationException.php
+Resources
+CreateMethodTrait.php
+DeleteMethodTrait.php
+ReadMethodTrait.php
+SaveMethodTrait.php
+UpdateMethodTrait.php
+ApiClient.php
+ApiErrorFactory.php
+ApiResourceList.php
+ApiResponse.php
+Util.php
+Webhook.php
+Tests
+Fixtures
+charge.json
+chargeList.json
+checkout.json
+checkoutList.json
+event.json
+eventList.json
+firstPageChargeList.json
+secondPageChargeList.json
+guzzleClientMock
+GuzzleHelperAbstract.php
+GuzzleMockClientFactoryMethod.php
+NewGuzzleHelperHelper.php
+OldGuzzleHelperHelper.php
+Resources
+ChargeTest.php
+CheckoutTest.php
+EventTest.php
+
+ApiClientTest.php
+ApiCollectionListTest.php
+ApiResourceTest.php
+BaseTest.php
+ExceptionsTest.php
+UtilTest.php
+WebhookTest.php
+
+.gitignore
+LICENSE
+README.md
+composer.json
+phpcs.xml
+phpunit.xml
+composer
+ClassLoader.php
+InstalledVersions.php
+LICENSE
+autoload_classmap.php
+autoload_files.php
+autoload_namespaces.php
+autoload_psr4.php
+autoload_real.php
+autoload_static.php
+installed.json
+installed.php
+guzzlehttp
+Este repositorio contiene una implementación completa de mensajes PSR-7, varios decoradores de secuencias y algunas funciones útiles, como el análisis de cadenas de consulta.
+guzzle
+src
+AggregateException.php
+CancellationException.php
+Coroutine.php
+Create.php
+Each.php
+EachPromise.php
+FulfilledPromise.php
+Is.php
+Promise.php
+PromiseInterface.php
+PromisorInterface.php
+RejectedPromise.php
+RejectionException.php
+TaskQueue.php
+TaskQueueInterface.php
+Utils.php
+functions.php
+functions_include.php
+
+
+
+
+CHANGELOG.md
+LICENSE
+Makefile
+README.md
+composer.json
+promises
+src
+AggregateException.php
+CancellationException.php
+Coroutine.php
+Create.php
+Each.php
+EachPromise.php
+FulfilledPromise.php
+Is.php
+Promise.php
+PromiseInterface.php
+PromisorInterface.php
+RejectedPromise.php
+RejectionException.php
+TaskQueue.php
+TaskQueueInterface.php
+Utils.php
+functions.php
+functions_include.php
+
+CHANGELOG.md
+LICENSE
+Makefile
+README.md
+composer.json
+psr7
+.github
+workflows
+ci.yml
+integration.yml
+static.yml
+FUNDING.yml
+stale.yml
+src
+AppendStream.php
+BufferStream.php
+CachingStream.php
+DroppingStream.php
+FnStream.php
+Header.php
+InflateStream.php
+LazyOpenStream.php
+LimitStream.php
+Message.php
+MessageTrait.php
+MimeType.php
+MultipartStream.php
+NoSeekStream.php
+PumpStream.php
+Query.php
+Request.php
+Response.php
+Rfc7230.php
+ServerRequest.phpStream.php
+StreamDecoratorTrait.php
+StreamWrapper.php
+UploadedFile.php
+Uri.php
+UriNormalizer.php
+UriResolver.php
+Utils.php
+functions.php
+functions_include.php
+
+
+.php_cs.dist
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+psr/http-message
+Este repositorio contiene todas las interfaces/clases/características relacionadas con PSR-7. Tenga en cuenta que esta no es una implementación de mensaje HTTP propia.
+
+src
+MessageInterface.php
+RequestInterface.php
+ResponseInterface.php
+ServerRequestInterface.php
+StreamInterface.php
+UploadedFileInterface.php
+UriInterface.php
+
+
+CHANGELOG.md
+LICENSE
+README.md
+composer.json
+
+
+ralouphie/getallheaders
+Este es un polyfill simple para getallheaders()
+
+src
+getallheaders.php
+
+
+LICENSE
+README.md
+composer.json
+
+
+
+symfony
+polyfill-intl-idn
+Este componente proporciona las funciones idn_to_ascii e idn_to_utf8 a los usuarios que ejecutan versiones de php sin la extensión Intl.
+Resources/unidata
+Idn.php
+Info.php
+LICENSE
+README.md
+bootstrap.php
+bootstrap80.php
+composer.json
+polyfill-intl-normalizer
+Normalizador Este componente proporciona una implementación alternativa para la clase Normalizer proporcionada por la extensión Intl.
+
+Resources
+LICENSE
+Normalizer.php
+README.md
+bootstrap.php
+bootstrap80.php
+composer.json
+polyfill-php72
+Este componente proporciona funciones añadidas al núcleo de PHP
+
+LICENSE
+Php72.php
+README.md
+bootstrap.php
+composer.json
+
+autoload.php
+res
+es.php
+uploads
+
+camera.jpg
+featured-image.jpg
+headphones.jpg
+wallet.jpg
+watch-2.jpg
+watch-3.jpg
+watch.jpg
+
+README.md
+cart.php
+changelog.md
+checkout.php
+config.php
+download.php
+favicon.png
+functions.php
+home.php
+index.php
+logout.php
+myaccount.php
+order-details-template.php
+order-notification-template.php
+placeorder.php
+product.php
+products.php
+script.js
+search.php
+shoppingcart.sql
+stripe-redirect.php
+style.css
+style.scss
+web.config
+
+
+
+
+
+
+
+
+
+
+
+exklusive-app   
+A continuación se presento una guía rápida de como echar a andar el entorno de desarrollo de la APP
+.github/ISSUE_TEMPLATE
+Ayuda a proporcionar información sobre la falla si se trata de un error. Si no es un error, elimina el resto de esta plantilla.
+reporta-un-bug.md
+
+contrib
+1x
+Artboard 55.png
+5422 [Converted].ai
+5422.eps
+5422.jpg
+AdobeStock_394665427_Preview.ai
+Herunterladen.jfif
+License free.txt
+License premium.txt
+Typography_Map.jpg
+black-black-background-abstract-balls-wallpaper-thumb.jpg
+black-cool-dark-laptop-background-wallpaper-preview.jpg
+luxury-ornamental-mandala-design-background-gold-color.zip
+modern-background-dark-gradient-luxury.zip
+screen-3.webp
+screen-4.jpg
+splash.psd
+splash_lab.psd
+vecteezy_abstract-black-watercolor-splash-background_256694.zip
+wallpaperflare.com_wallpaper.jpg
+water-colorful-liquid-minimalism-wallpaper-preview.jpg
+docs
+Bibliografía
+En este documento se muestra la bibliografía comentada de las cosas interesantes que se han ido descubriendo a travez de la investigación,
+
+Bibliografia.md
+e2e
+
+src
+app.e2e-spec.ts
+app.po.ts
+protractor.conf.js
+tsconfig.json
+resources
+Estos son los recursos de Córdoba. Puede reemplazar icon.png y splash.png y ejecutar recursos iónicos de cordova para generar íconos personalizados y pantallas de bienvenida para su aplicación.
+android
+icon
+drawable-hdpi-icon.png
+drawable-ldpi-icon.png
+drawable-mdpi-icon.png
+drawable-xhdpi-icon.png
+drawable-xxhdpi-icon.png
+drawable-xxxhdpi-icon.png
+icon.png
+splash
+drawable-land-hdpi-screen.png
+drawable-land-ldpi-screen.png
+drawable-land-mdpi-screen.png
+drawable-land-xhdpi-screen.png
+drawable-land-xxhdpi-screen.png
+drawable-land-xxxhdpi-screen.png
+drawable-port-hdpi-screen.png
+drawable-port-ldpi-screen.png
+drawable-port-mdpi-screen.png
+drawable-port-xhdpi-screen.png
+drawable-port-xxhdpi-screen.png
+drawable-port-xxxhdpi-screen.png
+icon.png
+splash.png
+xml
+network_security_config.xml
+ios
+icon
+icon-1024.png
+icon-108@2x.png
+icon-20.png
+icon-20@2x.png
+icon-20@3x.png
+icon-24@2x.png
+icon-27.5@2x.png
+icon-29.png
+icon-29@2x.png
+icon-29@3x.png
+icon-40.png
+icon-40@2x.png
+icon-40@3x.png
+icon-44@2x.png
+icon-50.png
+icon-50@2x.png
+icon-60.png
+icon-60@2x.png
+icon-60@3x.png
+icon-72.png
+icon-72@2x.png
+icon-76.png
+icon-76@2x.png
+icon-83.5@2x.png
+icon-86@2x.png
+icon-98@2x.png
+icon-small.png
+icon-small@2x.png
+icon-small@3x.png
+icon.png
+icon2.png
+icon@2x.png
+splash
+
+Default-1792h~iphone.png
+Default-2436h.png
+Default-2688h~iphone.png
+Default-568h@2x~iphone.png
+Default-667h.png
+Default-736h.png
+Default-Landscape-1792h~iphone.png
+Default-Landscape-2436h.png
+Default-Landscape-2688h~iphone.png
+Default-Landscape-736h.png
+Default-Landscape@2x~ipad.png
+Default-Landscape@~ipadpro.png
+Default-Landscape~ipad.png
+Default-Portrait@2x~ipad.png
+Default-Portrait@~ipadpro.png
+Default-Portrait~ipad.png
+Default@2x~iphone.png
+Default@2x~universal~anyany.png
+Default~iphone.png
+Exklusive-v1.1.0-key.keystore
+README.md
+icon.png
+splash.png
+src
+app
+Interfaces
+Tabs
+interfazTabs.ts
+paypal
+interfazSuscription.ts
+user
+interfazUser.ts
+interfazBussiness.ts
+interfazLogin.ts
+interfazMenu.ts
+interfazReservations.ts
+about
+about-routing.module.ts
+about.module.ts
+about.page.html
+about.page.scss
+about.page.spec.ts
+about.page.ts
+componentes
+
+back-header
+back-header.component.html
+back-header.component.scss
+back-header.component.ts
+confirmation-popover
+confirmation-popover.component.html
+confirmation-popover.component.scss
+confirmation-popover.component.ts
+date-popover
+date-popover.component.html
+date-popover.component.scss
+date-popover.component.ts
+hader
+header.component.html
+header.component.scss
+header.component.spec.ts
+header.component.ts
+item-reservation-comercio
+item-reservation-comercio.component.html
+item-reservation-comercio.component.scss
+item-reservation-comercio.component.ts
+list-bussiness
+
+Listado de Negocios en Componente
+list-bussiness-routing.module.ts
+list-bussiness.module.ts
+list-bussiness.page.html
+list-bussiness.page.scss
+list-bussiness.page.ts
+list-reservations-comercio
+
+list-reservations-comercio.component.html
+list-reservations-comercio.component.scss
+list-reservations-comercio.component.ts
+list-reservations
+list-reservations-comercio.component.html
+list-reservations-comercio.component.scss
+list-reservations-comercio.component.ts
+negocio-filtro
+
+negocio-filtro.component.html
+negocio-filtro.component.scss
+negocio-filtro.component.spec.ts
+negocio-filtro.component.ts
+popover-comments
+popover-comments-routing.module.ts
+popover-comments.module.ts
+popover-comments.page.html
+popover-comments.page.scss
+popover-comments.page.ts
+popover-filtro-raiting
+popover-filtro-raiting.component.html
+popover-filtro-raiting.component.scss
+popover-filtro-raiting.component.ts
+popover-filtro
+popover-filtro.component.html
+popover-filtro.component.scss
+popover-filtro.component.ts
+popover-vote
+popover-vote.component.html
+popover-vote.component.scss
+popover-vote.component.ts
+preference-user
+preference-user.component.html
+preference-user.component.scss
+preference-user.component.ts
+reservation-popover
+reservation-popover.component.html
+reservation-popover.component.scss
+reservation-popover.component.ts
+show-hide-password
+show-hide-password.component.html
+show-hide-password.component.scss
+show-hide-password.component.ts
+stars-raiting
+stars-raiting.component.html
+stars-raiting.component.scss
+stars-raiting.component.ts
+terms-cond-register
+terms-cond-register.component.html
+terms-cond-register.component.scss
+terms-cond-register.component.ts
+componentes.module.ts
+home
+
+home-routing.module.ts
+home.module.ts
+home.page.html
+home.page.scss
+home.page.ts
+pages
+
+account
+account-routing.module.ts
+account.module.ts
+account.page.html
+account.page.scss
+account.page.spec.ts
+account.page.ts
+business-data
+business-data-routing.module.ts
+business-data.module.ts
+business-data.page.html
+business-data.page.scss
+business-data.page.ts
+experimentos
+business-data-routing.module.ts
+business-data.module.ts
+business-data.page.html
+business-data.page.scss
+business-data.page.ts
+login
+login-routing.module.ts
+login.module.ts
+login.page.html
+login.page.scss
+login.page.ts
+payments
+payments-routing.module.ts
+payments.module.ts
+payments.page.html
+payments.page.scss
+payments.page.ts
+privacity
+privacity-routing.module.ts
+privacity.module.ts
+privacity.page.html
+privacity.page.scss
+privacity.page.ts
+read-qr
+read-qr-routing.module.ts
+read-qr.module.ts
+read-qr.page.html
+read-qr.page.scss
+read-qr.page.ts
+register
+register-routing.module.ts
+register.module.ts
+register.page.html
+register.page.scss
+register.page.ts
+reservaciones
+reservaciones-routing.module.ts     reestructuración de datos y Pipes
+reservaciones.module.ts
+reservaciones.page.html
+reservaciones.page.scss
+reservaciones.page.ts
+settings
+settings-routing.module.ts
+settings.module.ts
+settings.page.html
+settings.page.scss
+settings.page.ts
+
+pipes
+filtro-reservations.pipe.ts
+filtro-stars.pipe.ts
+filtro.pipe.ts
+filtrogiro.pipe.ts
+pipes.module.ts
+services
+api.service.ts
+common-tools.service.spec.ts
+common-tools.service.ts
+process.service.ts
+targets
+negocio
+negocio-routing.module.ts
+negocio.module.ts
+negocio.page.html
+5 months ago
+negocio.page.ts
+reservation-target-comercio
+reservation-target-comercio-routing.module.ts
+reservation-target-comercio.module.ts
+reservation-target-comercio.page.html
+reservation-target-comercio.page.scss
+reservation-target-comercio.page.ts
+reservation-target
+reservation-target-routing.module.ts
+reservation-target.module.ts
+reservation-target.page.html
+reservation-target.page.scss
+reservation-target.page.ts
+user
+
+user-routing.module.ts
+user.module.ts
+user.page.html
+user.page.scss
+user.page.ts
+app-routing.module.ts
+app.component.html
+app.component.scss
+app.component.spec.ts
+app.component.ts
+app.module.ts
+assets
+fonts
+IBMPlexSans-Bold.ttf
+IBMPlexSans-Regular.ttf
+Poppins-ExtraBold.ttf
+Poppins-Light.ttf
+Poppins-Medium.ttf
+Poppins-Regular.ttf
+Poppins-Thin.ttf
+SairaCondensed-Bold.ttf
+SairaCondensed-Regular.ttf
+Icon
+Error.png
+favicon.png
+logo.png
+success.png
+images
+Logo-jpyrsa.png
+exklusive_logo.png
+no_image_placeholder.png
+json
+menu.json
+menucomercio.json
+tabs.json
+tabs
+Barberia.png
+Reestructura
+6 months ago
+Barberia_tint.png
+Conciertos.png
+Conciertos_tint.png
+Fiesta.png
+Fiesta_tint.png
+NightClubs.png
+NightClubs_tint.png
+Otros.png
+Otros_tint.png
+Restaurantes.png
+Restaurantes_tint.png
+Salon_belleza.png
+Salon_belleza_tint.png
+Spa.png
+Spa_tint.png
+shapes.svg
+environments
+environment.local.ts
+environment.prod.ts
+environment.ts
+theme
+variables.scss
+global.scss
+index.html
+main.ts
+polyfills.ts
+test.ts
+zone-flags.ts
+
+typings
+cordova-typings.d.ts
+.browserslistrc
+7 months ago
+.dockerignore
+.editorconfig
+.eslintrc.json
+.gitignore
+Changelog.md
+Dockerfile
+README.md
+angular.json
+config.xml
+config_template.xml
+env.bat
+ionic.config.json
+karma.conf.js
+package-lock.json
+package.json
+start.bat
+tsconfig.app.json
+tsconfig.json
+tsconfig.spec.json
+Issues
+ 
+rds-client-installer    
+docs
+QA
+Test_Plan_Activity.md
+Screenshots
+01-Setup-Sprache auswählen.png
+02-Setup - Client Connector RDS_HOB version 1.04.png
+02-Setup - Cliente de conexiï¿½n RDS_HOB Version 1.04.png
+03-Setup - Client Connector RDS_HOB version 1.04.png
+04-Setup - Client Connector RDS_HOB version 1.04.png
+05-Setup - Client Connector RDS_HOB version 1.04.png
+
+components.md
+icons
+SetupIconFile.ico
+UninstallDisplayIcon.ico
+WizardImageFile.bmp
+WizardSmallImageFile.bmp
+_SetupIconFile.ico
+Templates
+Launcher.ini
+StartoptManager.lax
+icon_jterm.ico
+startupClient.xml
+.gitignore
+Client_installer.iss
+Instalar.adoc
+README.md
+Issues
+ 
+ 
+exklusive_api_v1   
+.github
+ISSUE_TEMPLATE
+bug_report.md
+workflows
+tests.yml
+dependabot.yml
+.settings
+org.eclipse.wst.validation.prefs
+app
+ApiKeyAuth.php
+ApiKeyAuthMiddleware.php
+dependencies.php
+email_handler.php
+middleware.php
+repositories.php
+routes.php
+settings.php
+tools.php
+config
+sql
+exklusive_db.sql
+templates/email
+
+foother.php
+header.php
+negocios_email.html
+welcome_business.html
+config.php
+db.php
+whitelist.php
+httdocs/exklusive_data/aviso_privacidad
+Avisos legales
+Aviso_privacidad.pdf
+TERMINOS_Y_CONDICIONES_NEGOCIO.pdf
+TERMINOS_Y_CONDICIONES_USUARIO.pdf
+logs
+Los archivos de registro de su aplicación Slim Framework se escribirán en este directorio.
+README.md
+public
+.htaccess
+comercio
+dependencies.php
+exklusive_data
+index.php
+info.php
+
+routes
+auth.php
+auth_dbh.php
+authors.php
+authors_dbh.php
+db_helper.php
+es_res.php
+images_handler.php
+images_handler_dbh.php
+loggin_r.php
+negocios.php
+negocios_dbh.php
+orders.php
+orders_dbh.php
+paypal.php
+paypal_dbh.php
+products.php
+products_dbh.php
+raiting.php
+raiting_dbh.php
+reserva.php
+reserva_dbh.php
+suppliers.php
+suppliers_dbh.php
+users.php
+users_dbh.php
+
+src
+Application
+Actions
+Authors
+AuthorsAction.php
+ListAuthorsAction.php
+ViewAuthorAction.php
+User
+ListUsersAction.php
+UserAction.php
+ViewUserAction.php
+Action.php
+ActionError.php
+ActionPayload.php
+Handlers
+HttpErrorHandler.php
+ShutdownHandler.php
+Logger
+mylogger.php
+Middleware
+SessionMiddleware.php
+ResponseEmitter
+ResponseEmitter.php
+Settings
+Settings.php
+SettingsInterface.php
+Console
+Command.php
+MyCommand.php
+MySQLCommand.php
+Testing.php
+TimeCommand.php
+Domain
+Authors
+Author.php
+AuthorNotFoundException.php
+DomainException
+DomainException.php
+DomainRecordNotFoundException.php
+User
+User.php
+UserNotFoundException.php
+UserRepository.php
+EXK_LOGGIN
+exk_loggin.php
+Infrastructure/Persistence/User
+InMemoryUserRepository.php
+var/cache
+.gitignore
+.buildpath
+.coveralls.yml
+.gitignore
+.htaccess
+.project
+CHANGELOG.md
+CONTRIBUTING.md
+README.md
+composer.json
+composer.lock
+console.php
+docker-compose.yml
+exklusive.php
+install.md
+launch_dev.bat
+php.ini
+phpcs.xml
+phpstan.neon.dist
+phpunit.xml
+Issues
+
+ 
+
+ 
+Exklusive-Documentation  			
+API
+00-intro.md
+01-BancoDeTrabajo.md
+01-Instalando-servidor.md
+02-configurando_API_KONG-UAT.md
+02-configurando_API_KONG-prod.md
+TrabajandoConGithub.md.backup
+switch_UAT_PROD.md
+App
+01-Installacion.md
+crear_paginas.md
+github
+TrabajandoConGithub.md
+Images
+2022-08-20 21_19_58-GitHub Desktop.png
+2022-08-21 00_23_02-GitHub Desktop.png
+2022-08-21 00_26_26-Comparing main...v1.0 · jpyrsa2_Exklusive-Documentation und 5 weitere Seiten - P.png
+2022-08-21 00_30_13-Comparing main...v1.0 · jpyrsa2_Exklusive-Documentation und 5 weitere Seiten - P.png
+2022-08-21 00_34_31-My changes by erwinpalma · Pull Request #2 · jpyrsa2_Exklusive-Documentation und.png
+2022-08-21 00_34_57-My changes by erwinpalma · Pull Request #2 · jpyrsa2_Exklusive-Documentation und.png
+2022-08-21 00_35_23-My changes by erwinpalma · Pull Request #2 · jpyrsa2_Exklusive-Documentation und.png
+clone_app_01.png
+clone_app_02.png
+clone_app_03.png
+clone_app_04.png
+clone_app_05.png
+clone_app_06.png
+diagrams.drawio
+heidi01.png
+heidi02.png
+iis_01.png
+iis_02.png
+iis_03.png
+infra-01.png
+ports-01.png
+misc
+usuarios_demo.md
+LICENSE
+README.md
+banco_de_trabajo.md
+infra.md
+usuarios.md
+
+rds_tools  
+EventLog2db
+My Project
+Application.Designer.vb
+Application.myapp
+AssemblyInfo.vb
+Resources.Designer.vb
+Resources.resx
+Settings.Designer.vb
+Settings.settings
+App.config
+EventLog2db.vbproj
+Module1.vb
+EventLog2db_service
+	My Project
+Application.Designer.vb
+Application.myapp
+AssemblyInfo.vb
+Resources.Designer.vb
+Resources.resx
+Settings.Designer.vb
+Settings.settings
+App.config
+EventLog2db_service.vbproj
+PearEventLog2db.Designer.vb
+PearEventLog2db.resx
+PearEventLog2db.vb
+ProjectInstaller.Designer.vb
+ProjectInstaller.resx
+ProjectInstaller.vb
+InstallAware
+Any CPU
+Check_for_Microsoft_.NET_Framework_4.6_with_Service_Pack_2_(x86_and_x64).mia
+RDSecure Tools.mia
+RDSecure Tools.mpr
+Setup_for_Microsoft_.NET_Framework_4.6_with_Service_Pack_2_(x86_and_x64).mia
+checknet452_x86x64.mia
+componentstree.dfm
+componentstree.dfm.miaf
+destination.dfm
+destination.dfm.miaf
+finish.dfm
+finish.dfm.miaf
+licensecheck.dfm
+licensecheck.dfm.miaf
+mFileBagEXE.dll
+mMSIExec.dll
+maintenance.dfm
+maintenance.dfm.miaf
+prereq.dfm
+prereq.dfm.miaf
+progress.dfm
+progress.dfm.miaf
+progressprereq.dfm
+progressprereq.dfm.miaf
+readme.dfm
+readme.dfm.miaf
+registration.dfm
+registration.dfm.miaf
+registrationwithserial.dfm
+registrationwithserial.dfm.miaf
+setupnet452_x86x64.mia
+setuptype.dfm
+setuptype.dfm.miaf
+startinstallation.dfm
+startinstallation.dfm.miaf
+startmenu.dfm
+startmenu.dfm.miaf
+welcome.dfm
+welcome.dfm.miaf
+wizard.dfm
+wizard.dfm.miaf
+RDSecure Tools_Any CPU.iaext.prjconf
+RDS Client
+RDS Client.vdproj
+contrib
+MySql.Data.dll
+MySql.Web.dll
+Synchronize-icon (1).png
+Synchronize-icon.png
+Synchronize.ico
+rdsMLK
+My Project
+Application.Designer.vb
+Application.myapp
+AssemblyInfo.vb
+Resources.Designer.vb
+Resources.resx
+Settings.Designer.vb
+Settings.settings
+app.manifest
+App.config
+Module1.vb
+Properties.vb
+mango.ico
+rdsMLK.vbproj
+rds_loggin.vb
+xmlhelper.vb
+rdsMangoLauncher
+Classes
+CertificateWebClient.vb
+RequireHttpsAttribute.vb
+helper.vb
+hlrelv.vb
+rds_loggin.vb
+xmlhelper.vb
+My Project
+Application.Designer.vb
+Application.myapp
+AssemblyInfo.vb
+Resources.Designer.vb
+Resources.resx
+Settings.Designer.vb
+Settings.settings
+app.manifest
+Resources
+Mango-icon.png
+Synchronize-icon (1).png
+Synchronize-icon.png
+Synchronize.ico
+mango.ico
+messages.vb
+.properties
+App.config
+ApplicationEvents.vb
+Changelog.md
+Form1.Designer.vb
+Form1.resx
+Form1.ssy.resx
+Form1.vb
+LauncherNet.Designer.vb
+LauncherNet.resx
+LauncherNet.vb
+SelectCertificate.Designer.vb
+SelectCertificate.resx
+SelectCertificate.vb
+XMLFile1.xml
+mango.ico
+rdsMangoLauncher.vbproj
+rdslib
+My Project
+
+
+
+Application.Designer.vb
+Application.myapp
+AssemblyInfo.vb
+Resources.Designer.vb
+Resources.resx
+Settings.Designer.vb
+Settings.settings
+
+IniFile.vb
+Properties.vb
+mysql_helper.vb
+rdslib.vbproj
+xmlhelper.vb
+.gitignore
+LICENSE
+RDSecure Tools.sln
+README.md
+XMLFile1.xml
+XMLFile2.xml
+Issues
+ 
+documentation  								
+Servicios API
+API.md
+
+
+exklusive-admin     
+admin
+about.php
+account.php
+accounts.php
+admin.css
+admin.scss
+emailtemplate.php
+index.php
+main.php
+merchant.php
+merchants.php
+roles.php
+settings.php
+css
+all.css
+activate.php
+activation-email-template.html
+authenticate.php
+config.php
+footer.php
+header.php
+home.php
+index.php
+logout.php
+main.php
+phplogin.sql
+profile.php
+register-process.php
+register.php
+resendactivation.php
+style.css
+style.scss
+
+rds-logviewer  
+Lector de LOGS de RDS, tiene la capacidad de exportar la información captada a una base de datos MySQL
+Objetivo general
+Diseñar y Desarrollar una aplicación Web que Implemente el sistema RDsecure Logs System que permita obtener y extraer los datos e información de los usuarios y llevar un control, RDS-logviewer
+RDS-logviewer
+RDS-logviewer-console
+My Project
+Application.Designer.vb
+Application.myapp
+AssemblyInfo.vb
+Resources.Designer.vb
+Resources.resx
+Settings.Designer.vb
+Settings.settings
+App.config
+CommandLine.vb
+ConfigINI.Designer.vb
+ConfigINI.resx
+ConfigINI.vb
+Module1.vb
+RDS-logviewer-GUI.Designer.vb
+RDS-logviewer-GUI.resx
+RDS-logviewer-GUI.vb
+RDS-logviewer-console.vbproj
+iniFile_helper.vb
+installer
+icons
+
+SetupIconFile.ico
+UninstallDisplayIcon.ico
+WizardImageFile.bmp
+WizardSmallImageFile.bmp
+_SetupIconFile.ico
+rds_logs_installer.iss
+sql
+azubi_01.sql
+RDS-logviewer.sln
+.gitattributes
+.gitignore
+
+Changelog.md
+RDSecureLogs.sql
+README.md
+Issues
+ 
+
+java_shared_libraries     
+cipher/src
+1.0.0
+10 months ago
+jar_loader/src
+1.0.0
+10 months ago
+logger
+1.0.0
+10 months ago
+option_panels/src
+1.0.0
+10 months ago
+os
+1.0.0
+10 months ago
+path_manager
+1.0.0
+10 months ago
+test_library/src
+1.0.0
+10 months ago
+wsp_connect/src
+1.0.0
+10 months ago
+xmltools
+1.0.0
+10 months ago
+zip_unpacker/src
+1.0.0
+10 months ago
+.project
+1.0.0
+10 months ago
+README.md
+
+
+management_service 
+Es un ejemplo de cómo puede dar instrucciones sobre cómo configurar su proyecto localmente. Para obtener una copia local en funcionamiento, siga estos sencillos pasos de ejemplo.
+Esta es una descripción de cómo se crearon los ejecutables jsvc.
+management_daemon
+unix/commons-daemon-1.0.10-native-src
+unix
+man
+README
+fetch.sh
+jsvc.1.xml
+native
+.indent.pro
+Makefile.in
+arguments.c
+arguments.h
+debug.c
+debug.h
+dso-dlfcn.c
+dso-dyld.c
+dso.h
+help.c
+help.h
+home.c
+home.h
+java.c
+java.h
+jsvc-unix.c
+jsvc.h
+location.c
+location.h
+locks.c
+locks.h
+replace.c
+replace.h
+signals.c
+signals.h
+version.h
+support
+apfunctions.m4
+apjava.m4
+apsupport.m4
+buildconf.sh
+config.guess
+config.sub
+install.sh
+mkdist.sh
+CHANGES.txt
+INSTALL.txt
+Makedefs.in
+Makefile.in
+configure
+configure.in
+LICENSE.txt
+README
+windows
+Configuración y construcción de Commons Daemon en Windows
+apps/prunsrv
+Makefile
+prunsrv.c
+prunsrv.h
+prunsrv.rc
+include
+Makefile.inc
+apxwin.h
+cmdline.h
+console.h
+gui.h
+handles.h
+javajni.h
+log.h
+registry.h
+rprocess.h
+service.h
+resources
+procrunw.ico
+src
+cmdline.c
+console.c
+gui.c
+handles.c
+javajni.c
+log.c
+mclib.c
+mclib.h
+private.h
+registry.c
+rprocess.c
+service.c
+utility.c
+utils.c
+README
+README.org
+mngt_service
+core
+doc
+Implementation Details.dia
+how to start plugins correctly.dia
+log
+mgmt.log
+src
+.settings
+org.eclipse.jdt.core.prefs
+org.eclipse.ltk.core.refactoring.prefs
+lib
+org.eclipse.jdt.core.prefs
+org.eclipse.ltk.core.refactoring.prefs
+src/hob/management/core
+eventhook
+logger
+core.java
+loader.java
+mgmt_main.java
+sorter.java
+version_info.java
+.classpath
+.project
+build.properties
+build.xml
+test
+.settings
+org.eclipse.jdt.core.prefs
+org.eclipse.ltk.core.refactoring.prefs
+bin/hob/management/core/test_helper
+file_helper.class
+src/hob/management/core/test_helper
+file_helper.java
+.classpath
+.project
+lib
+.settings
+org.eclipse.jdt.core.prefs
+org.eclipse.ltk.core.refactoring.prefs
+src/hob/management/core/lib
+config
+path_helper.java
+Plugin.java
+admin.java
+administrable.java
+notifiable.java
+.classpath
+.project
+build.properties
+build.xml
+config.xml
+plugins
+debug/debug_wsp_config_updater_plugin
+.settings
+org.eclipse.jdt.core.prefs
+org.eclipse.ltk.core.refactoring.prefs
+org.jboss.ide.eclipse.as.core.prefs
+src
+META-INF/services
+hob/management/plugins/debug/wsp
+.classpath
+.project
+build.properties
+build.xml
+opends
+.settings
+org.eclipse.jdt.core.prefs
+lib
+OpenDJ.jar
+src
+META-INF/services
+hob/management/plugins/opends
+.classpath
+.project
+build.properties
+build.xml
+plugin_man
+.settings
+org.eclipse.jdt.core.prefs
+src
+META-INF/services
+hob/rdvpn/plugin/admin
+.classpath
+.project
+build.properties
+build.xml
+tomcat
+.settings
+org.eclipse.jdt.core.prefs
+org.eclipse.ltk.core.refactoring.prefs
+src
+META-INF/services
+hob/management/plugins/tomcat
+.classpath
+.project
+build.properties
+build.xml
+wsp
+admin
+src
+test
+fallback
+doc
+src
+test
+starter
+doc
+src
+test
+watcher
+.settings
+src
+.classpath
+.project
+build.properties
+build.xml
+.project
+LICENSE.txt
+README.md
+
+rds-main-installer   
+archive
+Modd ad
+2 years ago
+docs
+Merge branch
+2 years ago
+icons
+main
+2 years ago
+script_installer
+jos
+2 years ago
+.gitignore
+Update .gitignore
+2 years ago
+README.md
+Update README.md
+
+rdsecure-gateway   
+README.md
+
